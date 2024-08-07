@@ -1,4 +1,4 @@
-## Computer Science & Economics Student @ Koç University
+## Computer Science & Economics Student @ KocUniversity
 ## Currently Working @ Albert Health
 
 <!--
