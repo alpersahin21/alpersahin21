@@ -1,5 +1,4 @@
 ## Computer Science & Economics Student @ KocUniversity
-## Currently Working @ Albert Health
 
 <!--
 **alpersahin21/alpersahin21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
