@@ -7,8 +7,8 @@ Welcome to my GitHub profile! I'm a **Computer Engineering & Economics** student
 
 ### 🌟 Highlights
 - **Passionate about:** AI & Machine Learning, Entrepreneurship, Finance, and Technology Innovations
-- **Experienced in:** Python, Java, React/Next.js, Spring Boot, Docker, Kubernetes, and Cloud Services (AWS)
-- **Current Focus:** Developing microservices architectures and deepening my understanding of Machine Learning & Deep Learning
+- **Experienced in:** Python, Java, React/Next.js, Spring Boot, Node,js, Docker, AWS
+- **Current Focus:** Developing Fullstack SaaS Applications and deepening my understanding of Machine Learning & Deep Learning
 
 ---
 
